@@ -1,3 +1,5 @@
+Desarrollo web y videojuegos.
+
 ▪︎ https://youtube.com/@nachoslkn?si=78brEhehlCMUC5A6
 ▪︎ https://twitter.com/Nachoslkn
 ▪︎ https://www.twitch.tv/nachoslkn
