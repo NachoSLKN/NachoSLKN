@@ -1,11 +1,8 @@
 Desarrollo Web & Videojuegos.
+
 Web Developer & Game Developer.
 
-🎮 Game Development
-
-🌐 Web Development
-
-🧊 3D Art
+🎮 Game Development 🌐 Web Development 🧊 3D Art
 
 Portfolio:
 https://nachoslkn.com
