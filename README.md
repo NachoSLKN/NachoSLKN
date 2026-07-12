@@ -3,7 +3,9 @@ Desarrollo web y videojuegos.
 Game Developer & Web Developer
 
 🎮 Game Development
+
 🌐 Web Development
+
 🧊 3D Art
 
 Portfolio:
