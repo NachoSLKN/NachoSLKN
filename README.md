@@ -14,4 +14,4 @@ ArtStation:
 https://artstation.com/nachoslkn
 
 LinkedIn:
-(pon aquí el enlace)
+https://www.linkedin.com/in/nachoslkn?utm_source=share_via&utm_content=profile&utm_medium=member_android
