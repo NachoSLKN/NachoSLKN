@@ -1,6 +1,5 @@
-Desarrollo web y videojuegos.
-
-Game Developer & Web Developer
+Desarrollo Web & Videojuegos.
+Web Developer & Game Developer.
 
 🎮 Game Development
 
