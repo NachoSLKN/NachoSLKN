@@ -1,9 +1,19 @@
 Desarrollo web y videojuegos.
 
-▪︎ https://youtube.com/@nachoslkn?si=78brEhehlCMUC5A6
-▪︎ https://twitter.com/Nachoslkn
-▪︎ https://www.twitch.tv/nachoslkn
-▪︎ https://www.instagram.com/nachoslkn/
-▪︎ https://www.instant-gaming.com/?igr=Nacho-slkn
-▪︎ https://www.artstation.com/nachoslkn
+Game Developer & Web Developer
 
+🎮 Game Development
+🌐 Web Development
+🧊 3D Art
+
+Portfolio:
+https://nachoslkn.com
+
+GitHub:
+https://github.com/NachoSLKN
+
+ArtStation:
+https://artstation.com/nachoslkn
+
+LinkedIn:
+(pon aquí el enlace)
